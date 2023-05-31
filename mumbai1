@@ -10,3 +10,4 @@ no changes added to commit (use "git add" and/or "git commit -a")
 x = 5
 y = 10
 print(x + y)
+python is very good language
